@@ -1,7 +1,7 @@
 # Blender v2.77 (sub 0) OBJ File: ''
 # www.blender.org
 mtllib WP_A_0258.mtl
-o mesh_4__mesh[4]_mesh
+o Mesh
 v -0.126114 -0.240612 0.000000
 v -0.083196 -1.228388 -0.000000
 v -0.044834 -1.198301 0.017429
